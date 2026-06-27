@@ -21,6 +21,5 @@
 # Estrutura
 # Sobre
 # Objetivo - Para que serve esse estudo?
--
 # Licença
 - O estudo Table12 utiliza uma licença própria. Consulte [aqui](LICENSE)
